@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFragment Tablayout</string>
+
+    <string name="dashboard">Dashboard Fragment</string>
+    <string name="setting">Setting Fragment</string>
+
+    <string name="article">Hello everyone. Here using viewpager2 and tablayout. Fragment within fragment</string>
+    <string name="football">Football News here</string>
+    <string name="motogp">Moto GP News here</string>
+    <string name="badminton">Badminton News here</string>
+</resources>
